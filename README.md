@@ -55,7 +55,9 @@ We evaluate the trained model's performance using the testing data, generating a
 We demonstrate the model's practical use by randomly selecting and testing a new cell image for classification.
 
 ## PROGRAM :
-
+Developed By : **Nithishkumar P**
+</br>
+Register No. : **212221230070**
 ```
 import os
 import pandas as pd
